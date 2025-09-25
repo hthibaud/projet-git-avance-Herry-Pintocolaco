@@ -1,7 +1,14 @@
-<<<<<<< HEAD
 # projet-git-avance-Herry-Pintocolaco
 New repo for advanced Git (TP)
-=======
-je modifie la ligne 1
-oulala je change un truc hyper important la
->>>>>>> cadd0fc (fix(README): hotfix: correction urgente (2))
+
+New function added : Compare : Compares two arguments
+
+New function added : Fibonacci : Calculates the Fibonacci series
+
+New function added : FirstRune : Returns the first rune of a string
+
+Numéro de version : 1.0
+
+Fonctionnalités : Acueillir l'utilisateur et le remercier
+
+Instructions : entrez dans le terminal go run cmd/main.go
