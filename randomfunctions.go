@@ -25,3 +25,6 @@ func Fibonacci(index int) int {
 
 	return Fibonacci(index-1) + Fibonacci(index-2)
 }
+func FirstRune(s string) rune {
+	return []rune(s)[0]
+}
